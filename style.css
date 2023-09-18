@@ -1,0 +1,22 @@
+body{
+    text-align: center;
+    top: 20%;
+    letter-spacing: .5e;
+    background: linear-gradient(to right,red, yellow);
+}
+
+h1{
+    font: 400 3.5em 'Raleway', sans-serif;
+    letter-spacing: 0.3em;
+    width: 100%;
+    text-transform: uppercase;
+    text-align: center;
+    
+
+}
+h2{
+    font: 200 0.3em 'Raleway' sans-serif;
+ text-align: center;
+ text-transform: uppercase;
+ letter-spacing: 0.02em;
+}
